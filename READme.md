@@ -31,9 +31,9 @@
 
 ## 🤝 Contacto:
 
-- LinkedIn: [Daniel Hurtado Quero] (www.linkedin.com/in/dhurtadoq)
-- Email: (danielh.fsdev@gmail.com) 
-- GitHub: [OconnelDan] (https://github.com/OconnelDan)
+- LinkedIn: [Daniel Hurtado Quero](https://www.linkedin.com/in/dhurtadoq/)
+- Email: [Enviar email](mailto:danielh.fsdev@gmail.com)
+- GitHub: [Daniel Hurtado](https://github.com/OconnelDan) 
 
 ---
 
