@@ -4,7 +4,7 @@
 
 🔍 Actualmente buscando oportunidades donde pueda aportar valor y seguir aprendiendo.
 
-🌟 Reconocido con un grado de discapacidad del 36% ♿ Estoy motivado para superar cualquier desafío y comprometido con mi desarrollo profesional.
+🌟 Reconocido con un grado de discapacidad del ♿ 36% ♿ Estoy motivado para superar cualquier desafío y comprometido con mi desarrollo profesional.
 
 🌱 Constantemente creciendo y aprendiendo de nuevos desafíos.
 
