@@ -23,9 +23,11 @@
 ## 📦 Proyectos:
 <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
 
-:construction:Aplicacion de cuidados de bebes. /br
-:construction:Juego de cartas, online (Cabo). /br
-:construction:Aplicacion de juegos de mesa. /br
+:construction:Aplicacion de cuidados de bebes. 
+
+:construction:Juego de cartas, online (Cabo). 
+
+:construction:Aplicacion de juegos de mesa. 
 
 ## 🤝 Contacto:
 
