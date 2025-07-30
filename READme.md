@@ -23,11 +23,11 @@
 ## 📦 Proyectos:
 <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
 
-:construction:Aplicacion de cuidados de bebes. 
+:construction:Holocron, aplicacion con base de datos y lector de cartas SWU desde el movil. 
 
-:construction:Juego de cartas, online (Cabo). 
+:construction:Automatizacion de Whatssap, para clientes de cocinas.
 
-:construction:Aplicacion de juegos de mesa. 
+
 
 ## 🤝 Contacto:
 
